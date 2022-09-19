@@ -2,13 +2,13 @@
 <head>
     <meta charset="UTF-8">
     <title>Ckset</title>
-    <style>
+<!--     <style>
         div {
             width: 1080px;
             height: 1980px;
             background-image: url(https://uploadfile.bizhizu.cn/up/1e/f3/46/1ef346fb166a597de623da49296560cc.jpg);
         }
-    </style>
+    </style> -->
 </head>
 <body>
 <div>
