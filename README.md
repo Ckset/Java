@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -18,23 +17,22 @@
     <p>你是我的我是你的谁</p>
 
      <strong><em>厉不厉害</em></strong>
-        爸&nbsp;&nbsp;爸
+        坤&nbsp;&nbsp;哥
 
     &gt;
     &lt;
     &copy;版权所属Ckset，未经授权严禁转载
 
-    <img src="../ING/img/2.png" alt="java第一课" title="悬停">
+    <img src="../src/2.png" alt="java第一课" title="悬停">
 
-    <a href="https://www.bilibili.com/video/BV1GJ411x7h7?spm_id_from=333.337.search-card.all.click&vd_source=2960e613ff7b5b796f803e455eb7ee7f" target="_blank">IKUN</a>
-
+    <a href="https://www.bilibili.com/video/BV1GJ411x7h7?spm_id_from=333.337.search-card.all.click&vd_source=2960e613ff7b5b796f803e455eb7ee7f" style="text-decoration: none;" target="_blank">IKUN</a>
     <br>
 
-    <a href="https://space.bilibili.com/302290376/favlist"> <img src="../ING/img/2.png" alt="java第一课" title="悬停"></a>
+    <a href="https://space.bilibili.com/302290376/favlist"> <img src="2.png" alt="java第一课" title="悬停"></a>
 
     <a href="#top">回到顶部</a>
 
-    <a href="mailto:2815741635@qq.com"> 点击联系我</a>
+    <a href="mailto:2815741635@qq.com" style="text-decoration: none;"> 点击联系我</a>
 
     <ol>
         <li>eee</li>
@@ -49,3 +47,21 @@
         <li>nb</li>
     </ul>
 
+
+
+
+
+
+
+
+
+    <!--搞事情-->
+
+
+
+
+
+
+
+</body>
+</html>
