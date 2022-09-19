@@ -45,41 +45,8 @@
     <audio src="../ING/img/5.mp3">鸡你太美</audio>
 
     <a href="https://music.163.com/#/song?id=1358620636" style="text-decoration: none">鸡你太美</a>
-
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <!--搞事情-->
-
-
-
-
-
-
 </body>
-
-
 </html>
 
 
