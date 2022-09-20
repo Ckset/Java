@@ -17,7 +17,7 @@
 
 <strong><em>厉不厉害</em></strong>
 坤&nbsp;&nbsp;哥
-<img src="../ING/img/2.png" alt="java第一课" title="悬停">
+<img src="https://raw.githubusercontent.com/HYX20031117/text/main/R-C.png" alt="java第一课" title="悬停">
 
 <a href="https://www.bilibili.com/video/BV1GJ411x7h7?spm_id_from=333.337.search-card.all.click&vd_source=2960e613ff7b5b796f803e455eb7ee7f" style="text-decoration: none;" target="_blank">IKUN</a>
     
