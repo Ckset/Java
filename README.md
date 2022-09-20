@@ -27,7 +27,13 @@
 <a href="https://space.bilibili.com/302290376/favlist"> <img src="https://p1.ssl.qhimg.com/t0101e7c3607ca73485.jpg" alt="java第一课" title="悬停"></a>
 <a href="#top">回到顶部</a>
 <a href="mailto:2815741635@qq.com" style="text-decoration: none;"> 点击联系我</a>
-    
+
+<audio 
+            autoplay="autoplay"
+            loop="loop"
+            preload="auto"
+            src="https://win-web-ri01-sycdn.kuwo.cn/5a1b95b269ed938202b2a99e0f7615a2/63292574/resource/n1/87/57/3082041059.mp3">
+    </audio>    
 &gt;
 &lt;
 &copy;版权所属Ckset，未经授权严禁转载
